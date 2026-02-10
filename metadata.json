@@ -1,0 +1,5 @@
+{
+  "name": "CodeRefine",
+  "description": "Generative AI-powered code review and optimization engine that identifies bugs, performance issues, and security vulnerabilities with real-time refactoring.",
+  "requestFramePermissions": []
+}
